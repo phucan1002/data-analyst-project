@@ -88,4 +88,6 @@ Báo cáo phân tích chi tiết hiệu suất bán lẻ, trình bày trực qua
 | **Biên lợi nhuận toàn kênh thấp (~5,6%)**          | Tối ưu chi phí vận hành, kiểm soát khuyến mãi và giảm lãng phí                  |
 
 ---
+![Online Image](https://github.com/phucan1002/data-analyst-project/blob/bddee62a8970b2e727c2dffb5e267d469580a091/Screenshot%202025-05-20%20213834.png)
+
 
